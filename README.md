@@ -37,24 +37,19 @@ The Jupyter Notebook is an open-source web application that allows to create and
 
 ### References
 
-Pandas Data Frame
 
 https://pandas.pydata.org/pandas-docs/stable/reference/frame.html
 
 "Introducing Data Science" Davy Cielen, Arno D. B. Meysman, Mohamed Ali - Manning 2016
 
-missing values:
 https://towardsdatascience.com/data-cleaning-with-python-and-pandas-detecting-missing-values-3e9c6ebcf78b
 
-Regression Plots:
 https://seaborn.pydata.org/tutorial/regression.html
 
-𝑅2
+https://statisticsbyjim.com/regression/interpret-r-squared-regression/
 
-- https://statisticsbyjim.com/regression/interpret-r-squared-regression/
+https://machinelearningmastery.com/a-gentle-introduction-to-normality-tests-in-python/
 
-Normality Test - https://machinelearningmastery.com/a-gentle-introduction-to-normality-tests-in-python/
-
-Outliers - https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba
+https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba
 
 
