@@ -1,5 +1,5 @@
 ## Tips Data Set - Project 2019
-## Programing and Scripting
+## Fundamentals of Data Analysis
 #### GMIT Galway
 #### Slawomir Sowa
 #### 04/10/2019
